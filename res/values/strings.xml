@@ -2781,7 +2781,7 @@ found in the list of installed applications.</string>
     <!-- Widget Picker -->
     <string name="widget_count">(%d widgets)</string>
 
-    <string name="about_rom_settings">About OMFGB</string>
+    <string name="about_rom_settings">About OMGB</string>
     <string name="rom_version">Rom type</string>
     <string name="comp_by">Compiled by</string>
     <string name="changelog_main">Changelog</string>
