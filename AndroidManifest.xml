@@ -393,6 +393,14 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+       <activity android:name="ThanksBirdman"
+                android:label="@string/thanks_birdman"
+                android:theme="@*android:style/Theme.Dialog.Alert">
+            <intent-filter>
+                <action android:name="android.settings.THANKS_BIRDMAN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
 
        <activity android:name="ThanksJb413"
                 android:label="@string/thanks_jb413"
