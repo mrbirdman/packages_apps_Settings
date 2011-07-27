@@ -96,6 +96,12 @@
         </PreferenceScreen>
 
         <PreferenceScreen
+                    android:key="thanks_birdman"
+                    android:title="@string/thanks_birdman">
+                <intent android:action="android.settings.THANKS_BIRDMAN" />
+        </PreferenceScreen>
+
+        <PreferenceScreen
                     android:key="thanks_poitee"
                     android:title="@string/thanks_poitee">
                 <intent android:action="android.settings.THANKS_POITEE" />
